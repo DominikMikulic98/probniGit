@@ -7,7 +7,7 @@ fun main() {
 
     var marko = White("Marko", 22)
     marko.fja2()
-
+    marko.fja()
 
 
 }
