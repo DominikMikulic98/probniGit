@@ -6,8 +6,7 @@ fun main() {
     val dominik = Person("Dominik", 23)
 
     var marko = White("Marko", 22)
-    marko.fja2()
-    marko.fja()
+
 
 
 }
